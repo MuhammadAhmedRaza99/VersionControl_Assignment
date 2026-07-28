@@ -15,8 +15,8 @@ A modern and fully responsive landing page built using HTML and CSS. This projec
 
 ## 🛠 Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Project Structure
 
@@ -31,7 +31,7 @@ responsive-landing-page/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/responsive-landing-page.git
+git clone https://github.com/ahmedraza-devs/responsive-landing-page.git
 ```
 
 2. Open the project folder.
